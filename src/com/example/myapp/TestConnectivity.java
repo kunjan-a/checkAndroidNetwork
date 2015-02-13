@@ -37,7 +37,7 @@ public class TestConnectivity {
 
     }
 
-  
+
     private static void TestSocketRoundTripUsingHttp() throws IOException {
         long start = System.currentTimeMillis();
 
